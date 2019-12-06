@@ -1,6 +1,6 @@
 {
   "name": "axios-extensions-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "axios的二次封装",
   "private": false,
   "author": "yuhaihang<18500214211@126.com>",
@@ -28,6 +28,11 @@
     "vue": "^2.6.10",
     "vue-router": "^3.1.3",
     "core-js": "^3.3.2"
+  },
+  "homepage": "https://github.com/summer0101/axios-extensions-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/summer0101/axios-extensions-server"
   },
   "keywords": [
     "axios",
